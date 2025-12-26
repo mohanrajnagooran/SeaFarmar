@@ -1,6 +1,6 @@
 import React from "react";
 import Home from "./pages/Home/Home";
-import Navbar from '../../frontend/src/components/Navbar/Navbar'
+import Navbar from './components/Navbar/Navbar'
 import About from "./pages/About/About";
 import Products from "./pages/Products/Products";
 import CookingMethods from "./pages/Cookingmethods/CookingMethods";
